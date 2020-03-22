@@ -17,6 +17,9 @@
   },
   "author": "Vadim Makarov",
   "license": "ISC",
+  "dependencies": {
+    "minimist": ">=1.2.2"
+  },
   "devDependencies": {
     "electron": "^7.1.9",
     "electron-builder": "^22.4.1"
