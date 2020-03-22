@@ -1,0 +1,42 @@
+main{
+    display: grid;
+    grid-template-rows: 80px 1fr;
+    font-size: 40px;
+    overflow: hidden;
+    text-align: center;
+}
+
+#block{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    height: 480px;
+    background: #C3E8C7;
+}
+.number{
+    transition: .1s;
+}
+
+.number:hover{
+    cursor: pointer;
+    background: #E8FFE2;
+}
+
+#resBlock{
+    background: #D6FFE7;
+    display: grid;
+    grid-template-rows: 1fr 2fr;
+}
+
+#result {
+    display: block;
+    margin: left;
+}
+
+#showing{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr 2fr;
+    justify-content: left;
+    font-size: 25px;
+    color: dimgrey;
+}

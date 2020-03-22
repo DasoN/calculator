@@ -1,0 +1,4 @@
+owner: DasoN
+repo: calculator
+provider: github
+updaterCacheDirName: calculator-updater

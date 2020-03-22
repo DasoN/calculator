@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: build
+appId: '1'
+mac:
+  category: application
+electronVersion: 7.1.14

@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: calculator-Setup-1.0.0.exe
+    sha512: JVowetaVzYo6IhHAZqmGzMz/m2FvmWg0VgCX2pFQUreBp8IqD1Vanwj4Uj53XZpmGfM2YXu9mGgJyRPHpMiMdQ==
+    size: 44747378
+path: calculator-Setup-1.0.0.exe
+sha512: JVowetaVzYo6IhHAZqmGzMz/m2FvmWg0VgCX2pFQUreBp8IqD1Vanwj4Uj53XZpmGfM2YXu9mGgJyRPHpMiMdQ==
+releaseDate: '2020-03-22T15:23:36.314Z'
